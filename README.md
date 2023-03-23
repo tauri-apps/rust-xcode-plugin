@@ -8,7 +8,7 @@ Based on:
 https://github.com/youknowone/rust-xcode-langspec
 https://github.com/steventroughtonsmith/lua-xclangspec
 
-If your Xcode UUID is not listed [here](https://github.com/BrainiumLLC/rust-xcode-plugin/blob/master/Plug-ins/Rust.ideplugin/Contents/Info.plist), please make an issue (or a pull request!) and we'll add it.
+If your Xcode UUID is not listed [here](https://github.com/tauri-apps/rust-xcode-plugin/blob/master/Plug-ins/Rust.ideplugin/Contents/Info.plist), please make an issue (or a pull request!) and we'll add it.
 
 You can check your UUID with this command:
 ```sh
